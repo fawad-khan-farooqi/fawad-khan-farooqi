@@ -68,7 +68,7 @@ Question answering from PDF documents using Retrieval-Augmented Generation.
 
 ## 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/fawad-khan-farooqi](http://www.linkedin.com/in/fawad-khan-farooqi)
+LinkedIn: [www.linkedin.com/in/fawad-khan-farooqi](http://www.linkedin.com/in/fawad-khan-farooqi)
 
 ---
 
